@@ -1,0 +1,5 @@
+KeralaPyApi
+heroku3
+sqlalchemy
+psycopg2-binary
+feedparser
